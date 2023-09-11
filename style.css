@@ -1,0 +1,49 @@
+h1, h2{
+    font-family: 'Times New Roman', Times, serif;
+    color:brown;
+
+}
+thead{
+    background-color: antiquewhite;
+    color: coral;
+}
+
+ol[start]{
+    background-color: yellow;
+}
+
+tbody{
+    background-color: darkkhaki;
+}
+select{
+background-color: burlywood;
+}
+.header h1{
+color:aqua;
+padding-bottom:50px;
+border: red dashed 10px;
+}
+.header~nav{
+    font-style: italic;
+    font-size: medium;
+    color: dimgrey;
+    background-color: aquamarine;
+}
+.header h2{
+    background-color: cyan;
+}
+.header blockquote{
+    font-size: xx-large;
+}
+.header blockquote:hover{
+    color: yellow;
+}
+
+
+
+
+/*.destination tbody tr ,odd{
+font-style: italic;
+backgroound-color: gray;
+
+}*/
